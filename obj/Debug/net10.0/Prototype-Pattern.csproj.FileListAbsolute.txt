@@ -1,0 +1,15 @@
+C:\Users\Rebecca.Lill\Documents\Schule\Design Pattern\Prototype-Pattern\obj\Debug\net10.0\Prototype-Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebecca.Lill\Documents\Schule\Design Pattern\Prototype-Pattern\obj\Debug\net10.0\Prototype-Pattern.AssemblyInfoInputs.cache
+C:\Users\Rebecca.Lill\Documents\Schule\Design Pattern\Prototype-Pattern\obj\Debug\net10.0\Prototype-Pattern.AssemblyInfo.cs
+C:\Users\Rebecca.Lill\Documents\Schule\Design Pattern\Prototype-Pattern\obj\Debug\net10.0\Prototype-Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Rebecca.Lill\Documents\Schule\Design Pattern\Prototype-Pattern\obj\Debug\net10.0\Prototype-Pattern.sourcelink.json
+C:\Users\Rebecca.Lill\Documents\Schule\Design Pattern\Prototype-Pattern\bin\Debug\net10.0\Prototype-Pattern.exe
+C:\Users\Rebecca.Lill\Documents\Schule\Design Pattern\Prototype-Pattern\bin\Debug\net10.0\Prototype-Pattern.deps.json
+C:\Users\Rebecca.Lill\Documents\Schule\Design Pattern\Prototype-Pattern\bin\Debug\net10.0\Prototype-Pattern.runtimeconfig.json
+C:\Users\Rebecca.Lill\Documents\Schule\Design Pattern\Prototype-Pattern\bin\Debug\net10.0\Prototype-Pattern.dll
+C:\Users\Rebecca.Lill\Documents\Schule\Design Pattern\Prototype-Pattern\bin\Debug\net10.0\Prototype-Pattern.pdb
+C:\Users\Rebecca.Lill\Documents\Schule\Design Pattern\Prototype-Pattern\obj\Debug\net10.0\Prototype-Pattern.dll
+C:\Users\Rebecca.Lill\Documents\Schule\Design Pattern\Prototype-Pattern\obj\Debug\net10.0\refint\Prototype-Pattern.dll
+C:\Users\Rebecca.Lill\Documents\Schule\Design Pattern\Prototype-Pattern\obj\Debug\net10.0\Prototype-Pattern.pdb
+C:\Users\Rebecca.Lill\Documents\Schule\Design Pattern\Prototype-Pattern\obj\Debug\net10.0\Prototype-Pattern.genruntimeconfig.cache
+C:\Users\Rebecca.Lill\Documents\Schule\Design Pattern\Prototype-Pattern\obj\Debug\net10.0\ref\Prototype-Pattern.dll
