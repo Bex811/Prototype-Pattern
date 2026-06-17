@@ -59,15 +59,18 @@ namespace Prototype_Pattern.Examples
             };
 
             var shallow = original.ShallowClone();
+            shallow.Topping = "Poppy Seeds";
             shallow.Recipe.Instructions = "Bake at 220°C";
+
             var deep = original.DeepClone();
+            deep.Topping = "Sunflower Seeds";
             deep.Recipe.Instructions = "Bake at 180°C";
 
             //You will see that the original instruction adapts from the shallow copy
             //While the deep copy is independent
-            Console.WriteLine(original.Recipe.Instructions);
-            Console.WriteLine(shallow.Recipe.Instructions);
-            Console.WriteLine(deep.Recipe.Instructions);
+            Console.WriteLine("Original: " + original.Type + " - " + original.Topping + " - " + $"{original.BakingTime}" + " - " + original.Recipe.Instructions);
+            Console.WriteLine("Shallow: " + shallow.Type + " - " + shallow.Topping + " - " + $"{shallow.BakingTime}" + " - " + shallow.Recipe.Instructions);
+            Console.WriteLine("Deep: " + deep.Type + " - " + deep.Topping + " - " + $"{deep.BakingTime}" + " - " + deep.Recipe.Instructions);
 
         }
     }
